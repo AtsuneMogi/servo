@@ -14,6 +14,6 @@ void setup() {
 
 void loop() {
     servo1.write(rand()%181);
-    delay(1000);
+    delay(100);
 }
 
